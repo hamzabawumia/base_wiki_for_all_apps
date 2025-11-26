@@ -15,4 +15,4 @@ about key flows and design choices in the project.
 
 ---
 
-🔗 **Main repository:** [MyApp on GitHub](https://github.com/<your-username>/myapp)
+🔗 **Main repository:** [MyApp on GitHub](https://github.com/hamzabawumia/<myapp>)
