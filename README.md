@@ -1,5 +1,5 @@
 # MyApp Wiki
-HOW TO DUPLICATE THIS APP: Just download a clone and create a new repo and upload the contents directly.
+HOW TO DUPLICATE THIS APP: Since it is a template repository, you just have to click "USE TEMPLATE" and Select "CREATE NEW REPOSITORY" 
 
 Welcome to the documentation hub for **MyApp** — a Django + Frappe-based application.
 
